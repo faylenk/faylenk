@@ -42,7 +42,7 @@
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 <p aling="left">
-  <strong>Thatis the Frameworks that i want to lear:</strong>
+  <strong>Thatis the Frameworks that i want to learn:</strong>
 </p>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
