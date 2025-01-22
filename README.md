@@ -5,15 +5,15 @@
 # About me
 
 <p align="left"> 
-  Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br>
+  🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!!
 </p>
 
 <p align="left">
-  <strong>㊗️ My language skills are:<br> <br> Portuguese ✡️ <br> English 🚩<br> Spanish 🚩<br></strong>
+  <strong>㊗️ My language skills are:<br> <br> Portuguese ☑️ <br> English 🚩<br> Spanish 🚩<br></strong>
 </p>
 
 <p align="left">
-  <strong>🟣 I'm actually learning: <br> <br> Russian 🉑 and Polish 🔜</strong>
+  <strong>🟣 I'm actually learning: <br> <br> Russian 🔛 and Polish 🔜</strong>
 </p>
 
 <p align="left">
@@ -60,10 +60,10 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-# Data Analytics
+# Testing API's
 
 <p align="left">
-  <strong>📊 I use this for Data Analytics</strong>
+  <strong>📊 I use this for Testing my API's</strong>
 </p>
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
