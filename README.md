@@ -8,6 +8,19 @@
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!!
 </p>
 
+
+<p align="left">
+  <strong>✅ I'm the creator of Kirzen, a Discord Bot and Creator of Devnite Studios. :3</strong>
+</p>
+
+<img src="images/KirzenDevnite Studios.png" min-width="400px" max-width="150px" width="150px" align="left"> <br> <br>
+
+<p align="left">
+  You can invite Kirzen by clicking there:
+  <a href="https://discord.com/oauth2/authorize?client_id=1042686365223096330&permissions=8&integration_type=0&scope=bot" title="invite_kirzen">
+  Invite kirzen
+</p>
+
 <p align="left">
   <strong>㊗️ My language skills are:<br> <br> Portuguese ☑️ <br> English 🚩<br> Spanish 🚩<br></strong>
 </p>
@@ -105,7 +118,6 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
 <p align="left">
