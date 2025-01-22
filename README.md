@@ -18,7 +18,7 @@
   <strong>✅ I'm the creator of Kirzen, a Discord Bot and Creator of Devnite Studios. :3</strong>
 </p>
 
-<img src="images/KirzenDevnite Studios.png" min-width="400px" max-width="150px" width="150px" align="left"> <br> <br>
+<img src="images/KirzenDevnite Studios.png" min-width="400px" max-width="150px" width="150px" align="left" title="DevniteStudios"> <br><br>
 
 <p align="left">
   You can invite Kirzen by clicking there:
