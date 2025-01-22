@@ -3,7 +3,7 @@
 <img src="images/bks.png" min-width="400px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
-  Hewooo!! :3 <strong>My name is Andrius</strong> And i love to learn programming languages.<br>
+  Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br>
 </p>
 
 <p align="left">
