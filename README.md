@@ -35,14 +35,14 @@
 # Frameworks
 
 <p align="left">
-  <strong>That is the frameworks that i know:</strong>
+  <strong>That is the frameworks that i use:</strong>
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 <p aling="left">
-  <strong>Thatis the Frameworks that i want to learn:</strong>
+  <strong>That is the Frameworks that i want to learn:</strong>
 </p>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
