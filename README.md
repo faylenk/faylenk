@@ -8,6 +8,11 @@
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!!
 </p>
 
+<p align="left"> 
+  I'm highly imspired by lovely father and my good old friend.
+  <a href="https://github.com/srpattif" title="@srpattif">
+  @srpattif
+</p>
 
 <p align="left">
   <strong>✅ I'm the creator of Kirzen, a Discord Bot and Creator of Devnite Studios. :3</strong>
