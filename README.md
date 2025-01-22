@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=faylenk&style=for-the-badge)
 
-<img src="images/bks.png" min-width="400px" max-width="250px" width="250px" align="right">
-
 # About me
+
+<img src="images/bks.png" min-width="400px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!!
