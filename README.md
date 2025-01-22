@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
-  I'm highly imspired by my lovely father and my good old friend.
+  I'm highly inspired by my lovely father and my good old friend.
   <a href="https://github.com/srpattif" title="@srpattif">
   @srpattif
 </p>
