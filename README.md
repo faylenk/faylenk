@@ -207,9 +207,12 @@
 <p align="left"> 
   <strong>Devnite Studios Server is under construction.</strong>
 </p>
-<a href="https://discord.gg/PaZgZNBm9v" title="DiscordDevnite">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="DiscordDevnite"/></a>
-<br>
+
+<p align="left">
+  Devnite Studios Server: 
+</p>
+
+[![](https://dcbadge.limes.pink/api/server/JPPtyde37X)](https://discord.gg/JPPtyde37X)
 
 <p align="left"> 
  # <strong>Thankiuuu for looking my profile :3 Have a nice day!<br></strong>
