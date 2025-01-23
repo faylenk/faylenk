@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=faylenk&style=for-the-badge)
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 # About me
 
@@ -7,8 +8,6 @@
 <p align="left"> 
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!! 
 </p>
-
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 <p align="left"> 
   I'm highly inspired by my lovely father and my good old friend.
