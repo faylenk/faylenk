@@ -37,16 +37,19 @@
   <strong>🟣 I'm actually learning: <br> <br> Russian 🔛 and Polish 🔜</strong>
 </p>
 
-# SKILLS
-
-<p align="left">
-  <strong>📖 Languages that i use:</strong> I usually use <strong>JavaScript/TypeScript</strong>, but i also like <strong>Java, Kotlin and Lua</strong> and i want to learn <strong>C++</strong>, <strong>C#</strong>, <strong>C</strong>, etc.
-</p>
+# STATS
 
 <div>
     <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=faylenk&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    <img width="32%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=faylenk&theme=dark&hide_border=true" />
 </div>
+
+# SKILLS
+
+<p align="left">
+  <strong>📖 Languages that i use:<br></strong> I usually use <strong>JavaScript/TypeScript</strong>, but i also like <strong>Java, Kotlin and Lua</strong> and i want to learn <strong>C++</strong>, <strong>C#</strong>, <strong>C</strong>, etc.
+</p>
 
 ### WHAT I USE
 
