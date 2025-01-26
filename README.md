@@ -44,8 +44,8 @@
 </p>
 
 <div>
-    <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=faylenk&show_icons=true&theme=dark&hide_border=true" />
-    <img width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&layout=compact&hide_border=true" />
+    <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=faylenk&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+    <img width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ### WHAT I USE
