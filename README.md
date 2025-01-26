@@ -3,7 +3,9 @@
 
 # About me
 
-<img src="images/bks.png" min-width="400px" max-width="250px" width="250px" align="right">
+<p align="right">
+  <img src="images/bks.png" min-width="350px" max-width="250px" width="250px" align="right">
+</p>
 
 <p align="left"> 
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!! 
@@ -40,6 +42,11 @@
 <p align="left">
   <strong>📖 Languages that i use:</strong> I usually use <strong>JavaScript/TypeScript</strong>, but i also like <strong>Java, Kotlin and Lua</strong> and i want to learn <strong>C++</strong>, <strong>C#</strong>, <strong>C</strong>, etc.
 </p>
+
+<div>
+    <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=faylenk&show_icons=true&theme=dark&hide_border=true" />
+    <img width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&layout=compact&hide_border=true" />
+</div>
 
 ### WHAT I USE
 
@@ -124,7 +131,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # Testing API's
 
