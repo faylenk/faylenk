@@ -4,7 +4,7 @@
 # About me
 
 <p align="right">
-  <img src="images/bks.png" min-width="350px" max-width="250px" width="250px" align="right">
+  <img src="images/bks.png" min-width="100px" max-width="250px" width="200px" align="right">
 </p>
 
 <p align="left"> 
