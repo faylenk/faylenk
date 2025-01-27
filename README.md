@@ -39,11 +39,16 @@
 
 # STATS
 
-<div>
-    <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=faylenk&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-    <img width="32%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=faylenk&theme=dark&hide_border=true" />
-</div>
+<a href="GitHub Stats">
+  <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api?username=faylenk&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="Most Used Languages">
+  <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</a>
+<a href="Streak">
+<img width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faylenk&theme=dark&hide_border=true" />
+</a>
+
 
 # SKILLS
 
