@@ -45,8 +45,8 @@
 <a href="https://faylenk-readme-stats.vercel.app">
   <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-<img width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faylenk&theme=default&hide_border=true" />
+<a href="https://faylenk-readme-streak-stats.vercel.com">
+<img width="33%" align="center" src="https://faylenk-readme-streak-stats.vercel.app?user=faylenk&hide_border=true&short_numbers=true)](https://git.io/streak-stats" />
 </a>
 
 
