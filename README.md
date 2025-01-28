@@ -40,13 +40,13 @@
 # STATS
 
 <a href="https://faylenk-readme-stats.vercel.app">
-  <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api?username=faylenk&theme=default&show_icons=true&hide_border=true&count_private=true" />
+  <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api?username=faylenk&theme=default&show_icons=true&hide_border=true&count_private=tru&layout=compact" />
 </a>
 <a href="https://faylenk-readme-stats.vercel.app">
   <img width="33%" align="center" src="https://faylenk-readme-stats.vercel.app/api/top-langs/?username=faylenk&theme=default&&exclude_repo=faylenk-readme-stats,faylenk-readme-streak-stats&show_icons=true&hide_border=true&layout=compact" />
 </a>
 <a href="https://faylenk-readme-streak-stats.vercel.com">
-<img width="33%" align="center" src="https://faylenk-readme-streak-stats.vercel.app?user=faylenk&hide_border=true&short_numbers=true)](https://git.io/streak-stats" />
+<img width="33%" align="center" src="https://faylenk-readme-streak-stats.vercel.app?user=faylenk&hide_border=true&short_numbers=true" />
 </a>
 
 
