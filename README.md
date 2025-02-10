@@ -75,7 +75,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <p align="left">
-  <strong>🖥️ I also have some notion of:</strong>
+  <strong>🖥️ I also have some experience in:</strong>
 </p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
