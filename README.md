@@ -3,10 +3,6 @@
 
 # About me
 
-<p align="right">
-  <img src="images/bks.png" min-width="100px" max-width="250px" width="200px" align="right">
-</p>
-
 <p align="left"> 
   🥰 Hewooo!! :3 <strong>My name is Andrius</strong> and i love to learn programming languages.<br> I'm from Brazil!!! 
 </p>
