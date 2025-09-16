@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  <strong>🟣 I'm actually learning: <br> <br> Russian 🔛 and Polish 🔜</strong>
+  <strong>🟣 I'm actually learning: <br> <br> Russian 🔛 and Dutch 🔜</strong>
 </p>
 
 # STATS
@@ -228,3 +228,4 @@
 <p align="left"> 
  # <strong>Thankiuuu for looking my profile :3 Have a nice day!<br></strong>
 </p>
+
