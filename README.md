@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <strong>㊗️ My language skills are:<br> <br> Portuguese ☑️ <br> English 🚩<br> Spanish 🚩<br></strong>
+  <strong>㊗️ My language skills are:<br> <br> Portuguese ☑️ <br> English 🚩<br></strong>
 </p>
 
 <p align="left">
@@ -229,6 +229,7 @@
 <p align="left"> 
  # <strong>Thankiuuu for looking my profile :3 Have a nice day!<br></strong>
 </p>
+
 
 
 
