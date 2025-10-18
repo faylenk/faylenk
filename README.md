@@ -106,8 +106,9 @@
 [![](https://dcbadge.limes.pink/api/server/JPPtyde37X)](https://discord.gg/JPPtyde37X)
 
 <p align="left"> 
- strong>Thanks for looking my profile. Have a nice day!<br></strong>
+ <strong>Thanks for looking my profile. Have a nice day!<br></strong>
 </p>
+
 
 
 
